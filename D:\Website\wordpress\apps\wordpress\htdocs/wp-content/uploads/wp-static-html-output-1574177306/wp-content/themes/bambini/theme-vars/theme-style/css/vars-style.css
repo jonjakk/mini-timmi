@@ -1,0 +1,2 @@
+.header_element_split {margin-left: 30px;}
+.header_element_split::before {content: "";position: absolute;top: 0;bottom: 0;right: -11px;width: 1px;height: 19px;opacity: .5;margin: auto;display: block;border-right-width: 1px;border-right-style: solid;}
