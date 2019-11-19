@@ -1,0 +1,27 @@
+.header_element_split {margin-left: 30px;}
+.header_element_split::before {content: "";position: absolute;top: 0;bottom: 0;right: -11px;width: 1px;height: 19px;opacity: .5;margin: auto;display: block;border-right-width: 1px;border-right-style: solid;}
+.yith-ajaxsearchform-container {position: relative;}
+.yith-ajaxsearchform-container .yith-s {background-position: center center !important;}
+.yith-ajaxsearchform-container select {display: block;width: 100%;margin-bottom: 10px;}
+.autocomplete-suggestions {width: 100% !important;position: absolute;left: 0;top: 100%;border-width: 1px;border-style: solid;border-top-width: 0;border-top-style: solid;}
+.autocomplete-suggestions .link-result {padding: 10px 15px;}
+.autocomplete-suggestions .autocomplete-suggestion {padding: 10px 15px;overflow: hidden;cursor: pointer;border-top-width: 1px;border-top-style: solid;}
+.autocomplete-suggestions .autocomplete-suggestion:first-child {border-top-width: 0;border-top-style: solid;}
+.autocomplete-suggestions .autocomplete-suggestion:hover {outline: none;}
+.autocomplete-suggestions .yith_wcas_result_image.align-left {float: left;margin-left: 0;margin-right: 10px;}
+.autocomplete-suggestions .yith_wcas_result_image.align-right {float: right;margin-left: 10px;margin-right: 0;}
+.autocomplete-suggestions .yith_wcas_result_content {overflow: hidden;position: relative;}
+.autocomplete-suggestions .title {margin: 0 0 5px;}
+.autocomplete-suggestions .badges {position: relative;}
+.autocomplete-suggestions .yith_wcas_result_categories {margin: 0 0 5px;}
+.autocomplete-suggestions .amount {position: relative;}
+.autocomplete-suggestions .yith_wcas_result_excerpt {overflow: hidden;margin: 0;padding: 0;}
+.cmsmasters_header_search_form {overflow-y: auto;}
+.cmsmasters_header_search_form .yith-ajaxsearchform-container {max-width: 90%;width: 800px;height: 100px;margin: auto !important;position: absolute;left: 0;right: 0;top: 0;bottom: 0;}
+.cmsmasters_header_search_form .yith-ajaxsearchform-container form {height: 100%;}
+.cmsmasters_header_search_form .yith-ajaxsearchform-container .search_bar_wrap {height: 100%;}
+.cmsmasters_header_search_form .yith-ajaxsearchform-container .search_field {height: 100%;}
+.cmsmasters_header_search_form .yith-ajaxsearchform-container .search_button {width: 90px;}
+.cmsmasters_header_search_form .yith-ajaxsearchform-container .search_button button:before {font-size: 32px;line-height: 32px;}
+.cmsmasters_header_search_form .yith-ajaxsearchform-container .yith-ajaxsearchform-select {display: none !important;}
+html.csstransitions .autocomplete-suggestion {-webkit-transition: background-color .3s ease-in-out,color .3s ease-in-out;-moz-transition: background-color .3s ease-in-out,color .3s ease-in-out;-ms-transition: background-color .3s ease-in-out,color .3s ease-in-out;-o-transition: background-color .3s ease-in-out,color .3s ease-in-out;transition: background-color .3s ease-in-out,color .3s ease-in-out;}
